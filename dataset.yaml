@@ -1,0 +1,8 @@
+path: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB_light
+train: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB_light/train/images
+val: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB_light/valid/images
+test: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB_light/test/images
+# Class names
+names:
+  0: emergency_light_bar
+  # Add more classes if needed

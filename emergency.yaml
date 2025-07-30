@@ -1,0 +1,12 @@
+path: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB
+train: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB/train/images
+val: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB/valid/images
+test: C:/Users/Tony/Desktop/A-Z/Mini Project/ITSS/Emergency Vehicles/DB/test/images
+
+names:
+  0: car
+  1: truck
+  2: bus
+  3: ambulance
+  4: police
+  5: fire_truck
